@@ -3,6 +3,8 @@ import matplotlib as plt
 
 n_steps = 1000
 n_trajectories = 50
+n_bins = 20
+n_bins = 20
 
 positions_2D = np.empty([n_trajectories, n_steps])
 
